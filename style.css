@@ -1,0 +1,42 @@
+body {
+    background-color: #848486;
+}
+
+h1 {
+    color: #5d362b;
+    font-family: Georgia;
+    font-size: 75px;
+}
+
+h2 {
+    font-size: 28px;
+    font-family: 'Times New Roman';
+    width: 1600px;
+    height: 75px;
+    background-color: #767d66;
+    border: 20px solid #191a14;
+    padding: 50px;
+    margin: 50px;
+}
+
+p {
+    color: #4b4f47;
+    font-family: Georgia;
+    font-size: 20px;
+    margin: 100px;
+
+}
+
+body {
+    background-color: #ffd89e;
+}
+
+h3 {
+    font-size: 28px;
+    font-family: 'Georgia';
+}
+
+ul {
+    font-size: 20px;
+    font-family: 'Times New Roman';
+}
